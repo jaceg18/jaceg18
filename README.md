@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Jace Grant</h1>
-<h3 align="center">An aspiring developer of all fields.</h3>
+<h3 align="center">Im an 18 year old from Texas aspiring to be a developer in all fields.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaceg18&label=Profile%20views&color=0e75b6&style=flat" alt="jaceg18" /> </p>
 
@@ -34,26 +34,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaceg18&show_icons=true&locale=en&layout=compact" alt="jaceg18" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaceg18&show_icons=true&locale=en" alt="jaceg18" /></p>
-
-
-Hello my name is Jace Grant im a college student from Texas.
-
-18 years old
-
-Qualifications:
- - Oracle Certified
- - Private school teacher
- - 6 years of object oriented programming experience.
- 
- 
- Skills:
-  - Java
-  - Artificial Intelligence, Machine Learning, Reinforced Learning.
-  - Mathematics
-  - Data structure
-  - Minecraft Development
-  
-  
-  
-  
- Reach me at jaceg18@gmail.com
