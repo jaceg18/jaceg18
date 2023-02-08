@@ -1,14 +1,14 @@
-#Hello my name is Jace Grant
-##College Student from Texas
-###18 years old
+Hello my name is Jace Grant im a college student from Texas.
 
-######Qualifications:
+18 years old
+
+Qualifications:
  - Oracle Certified
  - Private school teacher
  - 6 years of object oriented programming experience.
  
  
-######Skills:
+ Skills:
   - Java
   - Artificial Intelligence, Machine Learning, Reinforced Learning.
   - Mathematics
