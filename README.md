@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaceg18" alt="jaceg18" /></a> </p>
 
-- 🔭 I'm currently studying **A highschool student working towards a masters in computer science**
+- 🔭 I'm currently studying **For a Masters in Computer Science**
 
-- 🌱 I’m currently learning **machine learning/algorithms in java**
+- 🌱 I’m currently learning **Machine Learning/Algorithms in Java**
 
 - 👯 I’m looking to collaborate on **ANN, RL projects**
 
@@ -21,6 +21,8 @@
 - 💬 Ask me about **Java, Spigot/Paper, ML, Mathematics, Algorithms, Data Structure**
 
 - 📫 How to reach me **jaceg18@gmail.com**
+
+- Occupation: I currently am attending my final year in highschool.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
