@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Jace Grant</h1>
-<h3 align="center">Im an 18 year old from Texas aspiring to be a developer in all fields.</h3>
+<h3 align="center">I am an 18 year old from texas aspiring to be a developer in all fields.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaceg18&label=Profile%20views&color=0e75b6&style=flat" alt="jaceg18" /> </p>
 
@@ -8,9 +8,9 @@
 
 - 🔭 I'm currently studying **for a masters in computer science**
 
-- 🌱 I’m currently learning **machine learning in java**
+- 🌱 I’m currently learning **machine learning/algorithms in java**
 
-- 👯 I’m looking to collaborate on **ANN projects**
+- 👯 I’m looking to collaborate on **ANN, RL projects**
 
 - 🤝 I have been programming for **6 years**
 
@@ -18,11 +18,9 @@
 
 - 📝 My main language is [Java](Java)
 
-- 💬 Ask me about **java, spigot/paper development, ml/ann/rl, math.**
+- 💬 Ask me about **Java, Spigot/Paper, ML, Mathematics, Algorithms, Data Structure**
 
 - 📫 How to reach me **jaceg18@gmail.com**
-
-- ⚡ Fun fact **I am a teacher/tutor**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
