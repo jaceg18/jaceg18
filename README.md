@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaceg18" alt="jaceg18" /></a> </p>
 
-- 🔭 I'm currently studying **for a masters in computer science**
+- 🔭 I'm currently studying **A highschool student working towards a masters in computer science**
 
 - 🌱 I’m currently learning **machine learning/algorithms in java**
 
