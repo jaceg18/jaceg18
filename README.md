@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Jace Grant</h1>
-<h3 align="center">I am an 18 year old from texas aspiring to be a developer in all fields.</h3>
+<h3 align="center">I am an 19 year old from texas aspiring to be a developer in all fields.</h3>
 
 - 🔭 I'm currently studying **For a Masters in Computer Science**
 
