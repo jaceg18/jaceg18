@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently studying **For a Masters in Computer Science**
 
-- 🌱 I’m currently learning **Machine Learning/Algorithms in Java**
+- 🌱 I’m currently learning **Machine Learning Algorithms**
 
 - 👯 I’m looking to collaborate on **ANN, RL projects**
 
