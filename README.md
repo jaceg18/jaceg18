@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **jaceg18@gmail.com**
 
-- Occupation: I currently am attending my final year in highschool.
+- Occupation: I currently am attending my second year in college.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
