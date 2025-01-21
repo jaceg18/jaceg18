@@ -20,6 +20,8 @@
 
 - Occupation: I currently am attending my second year in college.
 
+- Note: I know my code is lazy, ill fix it later...
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
