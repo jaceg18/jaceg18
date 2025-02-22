@@ -22,6 +22,9 @@
 
 - Note: I know my code is lazy, ill fix it later...
 
+- <a href="https://jtechcollection.com" target="_blank">Visit JTech Collection</a>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
