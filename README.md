@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Jace Grant</h1>
-<h3 align="center">I am an 20 year old from texas aspiring to be a developer in all fields.</h3>
+<h3 align="center">21 year old from Texas aspiring to be a developer in all fields.</h3>
 
-- 🔭 I'm currently studying **For a Masters in Computer Science**
+- 🔭 I'm currently studying **For a Bachelor's in Computer Science**
 
 - 🌱 I’m currently learning **Machine Learning Algorithms**
 
-- 👯 I’m looking to collaborate on **ANN, RL projects**
+- 👯 I’m looking to collaborate on **ANN & RL projects**
 
 - 🤝 I have been programming for **6 years**
 
@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **jaceg18@gmail.com**
 
-- Occupation: I currently am attending my second year in college.
+- Occupation: Operations Manager.
 
 - Note: I know my code is lazy, ill fix it later...
 
