@@ -1,31 +1,24 @@
 
-<h1 align="center">Hi 👋, I'm Jace Grant</h1>
-<h3 align="center">21 year old from Texas aspiring to be a developer in all fields.</h3>
+<h1 align="center">Hi, I’m Jace Grant</h1>
+<h3 align="center">
+Computer Science student focused on systems, backend development, and applied machine learning.
+</h3>
 
-- 🔭 I'm currently studying **For a Bachelor's in Computer Science**
+- 🎓 Pursuing a Bachelor’s degree in Computer Science  
+- 🧠 Actively working with machine learning, reinforcement learning, and algorithmic problem-solving  
+- 🛠 Programming experience spanning ~6 years across backend, tooling, and experimental projects  
+- 💼 Currently working as an Operations Manager alongside development work  
+- ☕ Primary language: Java (with experience across multiple ecosystems and platforms)
 
-- 🌱 I’m currently learning **Machine Learning Algorithms**
+<p align="left">
+Most of my work here explores backend systems, server tooling, automation, and ML-adjacent experiments — practical projects first, polish later.
+</p>
 
-- 👯 I’m looking to collaborate on **ANN & RL projects**
-
-- 🤝 I have been programming for **6 years**
-
-- 👨‍💻 All of my projects are available at [github.com/jaceg18](github.com/jaceg18)
-
-- 📝 My main language is [Java](Java)
-
-- 💬 Ask me about **Java, Spigot/Paper, ML, Mathematics, Algorithms, Data Structure**
-
-- 📫 How to reach me **jaceg18@gmail.com**
-
-- Occupation: Operations Manager.
-
-- Note: I know my code is lazy, ill fix it later...
-
-- <a href="https://jtechcollection.com" target="_blank">Visit JTech Collection</a>
-
-
-<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://komarev.com/ghpvc/?username=jaceg18&label=Profile%20views&color=0e75b6&style=flat">
+  <img src="https://komarev.com/ghpvc/?username=jaceg18&label=Profile%20views&color=0e75b6&style=flat" alt="jaceg18" />
+</a>
+</p>
 <p align="left">
 </p>
 
