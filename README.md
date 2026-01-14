@@ -15,9 +15,6 @@ Most of my work here explores backend systems, server tooling, automation, and M
 </p>
 
 <p align="left">
-<a href="https://komarev.com/ghpvc/?username=jaceg18&label=Profile%20views&color=0e75b6&style=flat">
-  <img src="https://komarev.com/ghpvc/?username=jaceg18&label=Profile%20views&color=0e75b6&style=flat" alt="jaceg18" />
-</a>
 </p>
 <p align="left">
 </p>
